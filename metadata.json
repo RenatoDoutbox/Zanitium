@@ -2,7 +2,7 @@
     "name": "Zanitium",
     "symbol": "ZAN",
     "description": "Zanitium is a utility token for the Zanitium ecosystem.",
-    "image": "https://storacha.network/ipfs/bafybeidtk2ycaglsbr2ebauzwa44d5oblv5dkgnwwfht2e5xgts5z6dfxm",
+    "image": "https://raw.githubusercontent.com/RenatoDoutbox/Zanitium/main/zanitium.png",
     "external_url": "https://zanitium.com",
     "attributes": [
       {
@@ -17,14 +17,14 @@
     "properties": {
       "files": [
         {
-          "uri": "https://storacha.network/ipfs/bafybeidtk2ycaglsbr2ebauzwa44d5oblv5dkgnwwfht2e5xgts5z6dfxm",
+          "uri": "https://raw.githubusercontent.com/RenatoDoutbox/Zanitium/main/zanitium.png",
           "type": "image/png"
         }
       ],
       "category": "image",
       "creators": [
         {
-          "address": "HFGYNfJpKsAoChF6kPrESXD2RFQa9jcsgQAf4hicDpAQ",
+          "address": "BLY2VrDZuUbAsd5FoVbv4SuTBqCXAbJdD4nwiWVUQij2",
           "share": 100
         }
       ]
